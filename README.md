@@ -3,6 +3,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pri1712&layout=compact&custom_title=I%20use&title_color=f8333c&card_width=445)
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pri1712&repo=comment_toxicity_checker)](https://github.com/tonynguyenit18/paypal-RN-intergration)
 <br>
 
 
