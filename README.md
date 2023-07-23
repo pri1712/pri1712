@@ -10,5 +10,4 @@
 
 
 
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/prixxx)
+![Leetcode Stats](https://leetcard.jacoblin.cool/prixxx?theme=dark)
