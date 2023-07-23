@@ -11,4 +11,4 @@
 
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/pri1712)
+![Leetcode Stats](https://leetcard.jacoblin.cool/prixxx)
