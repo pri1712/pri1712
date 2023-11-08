@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pri1712)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3><b>Checkout my favourite projects!</b></h3>
+<h3><b>Checkout my Leetcode stats!</b></h3>
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/prixxx?theme=dark)
