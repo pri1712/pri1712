@@ -5,9 +5,5 @@
 
 <h3><b>Checkout my favourite projects!</b></h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pri1712&repo=comment_toxicity_checker)](https://github.com/pri1712/comment_toxicity_checker.git)
-<br>
-
-
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/prixxx?theme=dark)
