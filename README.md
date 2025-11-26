@@ -14,6 +14,3 @@ Software Developer from India who is either busy fixing something he broke or br
 [Portfolio](https://pri1712.github.io/portfolio/) 
 
 
-## Languages and Tools
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pri1712&layout=compact)](https://github.com/mittal-parth/github-readme-stats)
