@@ -13,4 +13,7 @@ Software Developer from India who is either busy fixing something he broke or br
 [LinkedIn](https://www.linkedin.com/in/priyanshu1712/) | 
 [Portfolio](https://pri1712.github.io/portfolio/) 
 
+# GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=pri1712&theme=merko&hide_border=false)<br/>
+
 
